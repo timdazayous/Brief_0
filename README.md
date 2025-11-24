@@ -78,3 +78,4 @@ Cette veille technologique m'a permis :
 - de comprendre les risques liés à l’IA,  
 - de mettre en place un rituel automatisé de suivi des sources fiables,  
 - et de sélectionner des outils et pratiques pour sécuriser les projets IA.
+
