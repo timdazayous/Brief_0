@@ -80,6 +80,7 @@ x_adv = attack.generate(x=test_imgs)
 ### Semaine 2
 - Analyse des articles les plus pertinents  
 - Mise à jour du README.md avec nouvelles informations
+- Alertes Googles definies
 
 ### Semaine 3
 - Mise à jour du README.md
