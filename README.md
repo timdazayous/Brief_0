@@ -13,7 +13,7 @@ Développeur junior – Projet SIDORA IA
 ## ⚙️ Outils utilisés
 - **Feedly** : agrégateur de flux RSS  
 - **Google Alerts** : alertes automatiques par email  
-- **Pocket** : sauvegarde et annotation d’articles
+- **Substack** : sauvegarde et annotation d’articles
 
 ## 🔗 Sources RSS suivies
 
@@ -38,7 +38,7 @@ Développeur junior – Projet SIDORA IA
 
 ## 🕒 Rituel de veille automatisé
 - **Lundi** : ouverture de Feedly → lecture des nouveautés dans le dossier "Cybersécurité IA"  
-- **Mercredi** : tri des articles → sauvegarde des plus pertinents dans Pocket  
+- **Mercredi** : tri des articles → sauvegarde des plus pertinents dans Substack  
 - **Weekend** : mise à jour de la synthèse dans ce fichier README.md
 
 ## 🏴‍☠️ Principales menaces
@@ -70,7 +70,7 @@ classifier = SklearnClassifier(model=mon_modele)
 attack = FastGradientMethod(estimator=classifier)
 x_adv = attack.generate(x=test_imgs)
 ```
-## Intégration de la cybersécurité dès la conception (Security by Design)
+## :construction: Intégration de la cybersécurité dès la conception (Security by Design)
 * La cybersécurité doit être intégrée dès la phase de conception avec une approche "Security by Design". Cela inclut l'identification des risques, la définition des exigences de sécurité, et la mise en place de contrôles adaptés (contrôle d'accès basé sur le principe du moindre privilège, authentification multi-facteurs, gestion sécurisée des clés et secrets, et détection des vulnérabilités dès le développement). La sécurité continue de la base (tests, supervision, conformité) est également cruciale pour limiter les risques d'intrusion et de fuite de données.
 
 ## 📅 Synthèse hebdomadaire
@@ -94,3 +94,9 @@ Cette veille technologique m'a permis :
 - de mettre en place un rituel automatisé de suivi des sources "fiables"  
 - de commencer à sélectionner des outils et pratiques pour sécuriser les projets IA.
 
+## :books: Glossaire
+* **LLM:** :small_red_triangle: Large Language Model est un modèle d'intelligence artificielle entraîné sur de grandes quantités de texte pour comprendre, générer et manipuler le langage naturel. Les LLM sont capables de réaliser diverses tâches linguistiques comme la traduction, la rédaction de texte, la réponse à des questions, et plus encore, en s'appuyant sur des réseaux de neurones profonds et des techniques d'apprentissage supervisé. Exemples célèbres incluent GPT (Generative Pre-trained Transformer) et BERT (Bidirectional Encoder Representations from Transformers).:small_red_triangle:
+#####
+* **NIST AI RMF:** :small_red_triangle: Le Artificial Intelligence Risk Management Framework est un cadre développé par le National Institute of Standards and Technology pour aider les organisations à gérer les risques liés aux systèmes d'intelligence artificielle tout au long de leur cycle de vie. Il vise à promouvoir des systèmes d'IA sûrs, fiables, transparents et éthiques en fournissant des lignes directrices pour identifier, évaluer, et atténuer les risques d’IA. Le cadre est structuré autour de quatre fonctions clés : Gouverner, Cartographier (Map), Mesurer et Gérer les risques. Il s'agit d'un outil flexible et volontaire pour encourager une adoption responsable de l'IA dans divers contextes organisationnels.:small_red_triangle:
+#####
+* **Normes OWASP:** :small_red_triangle: Open Web Application Security Project est une organisation internationale à but non lucratif dédiée à l'amélioration de la sécurité des applications web. OWASP fournit des ressources gratuites, des outils, et des normes pour aider les développeurs et les organisations à protéger leurs applications contre les vulnérabilités et attaques courantes. Son projet phare, le Top 10 OWASP, liste les dix risques les plus critiques pour la sécurité des applications web, servant de référence pour guider les efforts de sécurisation. OWASP promeut la sensibilisation, la formation, et les meilleures pratiques en sécurité applicative.:small_red_triangle:
