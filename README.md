@@ -17,7 +17,7 @@ Développeur junior – Projet SIDORA IA
 
 ## 🔗 Sources RSS suivies
 
-### Flux RSS officiels
+### Flux RSS officiels suivis via Feedly
 - Microsoft Security Blog : [https://www.microsoft.com/en-us/security/blog/](https://www.microsoft.com/en-us/security/blog/)  
 - Google AI Blog : [https://ai.googleblog.com/](https://ai.googleblog.com/)  
 - OpenAI Blog : [https://openai.com/blog](https://openai.com/blog)  
@@ -28,10 +28,18 @@ Développeur junior – Projet SIDORA IA
 ### Page suivie via Feedly (pas de RSS officiel)
 - OWASP ML Security Top 10 : [https://owasp.org/www-project-machine-learning-security-top-10/](https://owasp.org/www-project-machine-learning-security-top-10/)
 
+## :loudspeaker: Alertes Google paramétrées
+
+### Surveillance en temps réel mise en place sur plusieurs domaines
+* Cyber attaque IA
+* Cyber attack AI
+* Cybersecurité IA
+* Cybersecurity AI
+
 ## 🕒 Rituel de veille automatisé
-- **Lundi matin** : ouverture de Feedly → lecture des nouveautés dans le dossier "Cybersécurité IA"  
+- **Lundi** : ouverture de Feedly → lecture des nouveautés dans le dossier "Cybersécurité IA"  
 - **Mercredi** : tri des articles → sauvegarde des plus pertinents dans Pocket  
-- **Dimanche** : mise à jour de la synthèse dans ce fichier README.md
+- **Weekend** : mise à jour de la synthèse dans ce fichier README.md
 
 ## 🏴‍☠️ Principales menaces
 - **Attaques adversariales** : modification subtile des entrées pour tromper le modèle  
@@ -73,9 +81,13 @@ x_adv = attack.generate(x=test_imgs)
 - Analyse des articles les plus pertinents  
 - Mise à jour du README.md avec nouvelles informations
 
+### Semaine 3
+- Mise à jour du README.md
+- Création d'un google slide reprenants les principaux points vu lors de la veille
+
 ## 🎯 Conclusion
 Cette veille technologique m'a permis :
-- de comprendre les risques liés à l’IA,  
-- de mettre en place un rituel automatisé de suivi des sources fiables,  
-- et de sélectionner des outils et pratiques pour sécuriser les projets IA.
+- de comprendre d'avantage les risques liés à l’IA,  
+- de mettre en place un rituel automatisé de suivi des sources "fiables"  
+- de commencer à sélectionner des outils et pratiques pour sécuriser les projets IA.
 
