@@ -70,7 +70,7 @@ classifier = SklearnClassifier(model=mon_modele)
 attack = FastGradientMethod(estimator=classifier)
 x_adv = attack.generate(x=test_imgs)
 ```
-## Intégration de la cybersécurité dès la conception (Security by Design)**
+## Intégration de la cybersécurité dès la conception (Security by Design)
 * La cybersécurité doit être intégrée dès la phase de conception avec une approche "Security by Design". Cela inclut l'identification des risques, la définition des exigences de sécurité, et la mise en place de contrôles adaptés (contrôle d'accès basé sur le principe du moindre privilège, authentification multi-facteurs, gestion sécurisée des clés et secrets, et détection des vulnérabilités dès le développement). La sécurité continue de la base (tests, supervision, conformité) est également cruciale pour limiter les risques d'intrusion et de fuite de données.
 
 ## 📅 Synthèse hebdomadaire
