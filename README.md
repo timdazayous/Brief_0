@@ -17,13 +17,36 @@ Développeur junior – Projet SIDORA IA
 
 ## 🔗 Sources RSS suivies
 
-### Flux RSS officiels suivis via Feedly
+### Flux RSS officiels suivis
 - Microsoft Security Blog : [https://www.microsoft.com/en-us/security/blog/](https://www.microsoft.com/en-us/security/blog/)  
 - Google AI Blog : [https://ai.googleblog.com/](https://ai.googleblog.com/)  
 - OpenAI Blog : [https://openai.com/blog](https://openai.com/blog)  
 - arXiv Machine Learning (cs.LG) : [https://export.arxiv.org/rss/cs.LG](https://export.arxiv.org/rss/cs.LG)  
 - arXiv Artificial Intelligence (cs.AI) : [https://export.arxiv.org/rss/cs.AI](https://export.arxiv.org/rss/cs.AI)  
-- The Hacker News : [https://feeds.feedburner.com/TheHackersNews](https://feeds.feedburner.com/TheHackersNews)  
+- The Hacker News : [https://feeds.feedburner.com/TheHackersNews](https://feeds.feedburner.com/TheHackersNews) 
+#### Best flux en dur en dehors de logiciels specialisés comme inoreader ou feedly
+- [GOOGLE ONLINE SECURITY - ATOM](https://feeds.feedburner.com/GoogleOnlineSecurityBlog")
+- [MICROSOFT SECURITY FEED - RSS](https://www.microsoft.com/en-us/security/blog/feed/)
+- [CYBER BUILDERS - ATOM](https://cyberbuilders.substack.com/feed)
+- [THE CONVESRATION - ATOM](https://theconversation.com/topics/cybersecurity-535/articles.atom)
+- [VENTURE IN SECURITY - ATOM](https://ventureinsecurity.net/feed)
+- [ALIAS ROBOTICS - ATOM](https://news.aliasrobotics.com/rss/)
+- [INTELLIGENCE X](https://incidentdatabase.ai//rss.xml)
+
+#### Good flux en dur en dehors de logiciels specialisés comme inoreader ou feedly
+- [FIDELIS SECURITY - RSS](https://fidelissecurity.com/feed/)
+- [LYNX TECHNOLOGY - RSS](https://lynxtechnologypartners.com/blog/feed/)
+- [ESECURITY PLANET - RSS](https://www.esecurityplanet.com/feed/)
+- [INCIDENTDATABASE - ATOM](https://incidentdatabase.ai//rss.xml) 
+- [UNDER DEFENSE - RSS](https://underdefense.com/feed/)
+- [KREBSON ON SECURITY - RSS](https://krebsonsecurity.com/feed/)
+- [CYBLE BLOG - RSS](https://cyble.com/feed/),
+- [MIT CYBERSECURITY - ATOM](https://news.mit.edu/topic/mitcyber-security-rss.xml),
+- [THE LAST WATCHDOG - RSS](https://www.lastwatchdog.com/feed/)
+- [THE CYBER EXPRESS - RSS](https://thecyberexpress.com/feed/)
+- [DR ERDAL OZKAYA - RSS](https://erdalozkaya.com/feed/)
+- [VMWARE - RSS](https://blogs.vmware.com/security/feed)
+
 
 ### Page suivie via Feedly (pas de RSS officiel)
 - OWASP ML Security Top 10 : [https://owasp.org/www-project-machine-learning-security-top-10/](https://owasp.org/www-project-machine-learning-security-top-10/)
