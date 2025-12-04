@@ -37,7 +37,7 @@ Développeur junior – Projet SIDORA IA
 * Cybersecurity AI
 
 ## 🕒 Rituel de veille automatisé
-- **Lundi** : ouverture de Feedly → lecture des nouveautés dans le dossier "Cybersécurité IA"  
+- **Lundi** : ouverture de Inoreader → lecture des nouveautés dans le dossier "Cybersécurité IA"  
 - **Mercredi** : tri des articles → sauvegarde des plus pertinents dans Substack  
 - **Weekend** : mise à jour de la synthèse dans ce fichier README.md
 
